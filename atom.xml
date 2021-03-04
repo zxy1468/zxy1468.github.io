@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-03-04T03:29:37.571Z</updated>
+  <updated>2021-03-04T06:04:24.649Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,19 +17,21 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
+    <title>我的小毛驴</title>
     <link href="http://example.com/2021/03/04/FirstNight/"/>
     <id>http://example.com/2021/03/04/FirstNight/</id>
     <published>2021-03-04T03:19:08.795Z</published>
-    <updated>2021-03-04T03:29:37.571Z</updated>
+    <updated>2021-03-04T06:04:24.649Z</updated>
     
-    <content type="html"><![CDATA[<hr><h2 id="title-First-Night"><a href="#title-First-Night" class="headerlink" title=" title: First Night"></a> title: First Night</h2><blockquote><p>我有一头<strong>小毛驴</strong>，可是我从来都不骑。</p></blockquote>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>我有一头<strong>小毛驴</strong>，可是我从来都不骑。<br> <div class="mermaid">          graph TD    A[Christmas] -->|Get money| B(Go shopping)    B --> C{Let me think}    C -->|One| D[Laptop]    C -->|Two| E[iPhone]    C -->|Three| F[Car]          </div></p></blockquote><div class="note note-success">            <p>success</p>          </div><div class="note note-primary">            <p>primary</p>          </div><div class="note note-default">            <p>default</p>          </div><div class="note note-danger">            <p>danger</p>          </div><div class="note note-warning">            <p>warning</p>          </div><div class="note note-info">            <p>info</p>          </div><div class="note note-light">            <p>light</p>          </div>]]></content>
     
     
       
       
-    <summary type="html">&lt;hr&gt;
-&lt;h2 id=&quot;title-First-Night&quot;&gt;&lt;a href=&quot;#title-First-Night&quot; class=&quot;headerlink&quot; title=&quot; title: First Night&quot;&gt;&lt;/a&gt; title: First Night&lt;/h2&gt;&lt;blo</summary>
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;我有一头&lt;strong&gt;小毛驴&lt;/strong&gt;，可是我从来都不骑。&lt;br&gt; &lt;div class=&quot;mermaid&quot;&gt;
+          graph TD
+    A[Christmas] --&gt;|Get money| B(Go shoppin</summary>
       
     
     
